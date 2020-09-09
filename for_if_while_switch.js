@@ -23,5 +23,4 @@ function soloPares(lista){
 }
 
 var listaPares = soloPares(lista);
-
 console.log(listaPares);
