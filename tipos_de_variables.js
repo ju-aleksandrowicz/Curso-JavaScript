@@ -12,5 +12,4 @@ console.log("Color de pelo: " + ComoEs[1]);
 console.log("¿Es lindo o feo?: Es " + ComoEs[2]);
 
 var lista = [0,"Roberto"];
-
 console.log(lista);
