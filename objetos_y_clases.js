@@ -56,4 +56,5 @@ console.log(fichaTecnica.precioCF);
     }
 }
 var unTigre = new Animal("Tigre","Selva",30,"400 kg");
+
 console.log(unTigre.dondeVIVE);
